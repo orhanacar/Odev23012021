@@ -10,7 +10,7 @@ namespace Odev23012021
             ogrenci.Add(1, "Orhan");
             ogrenci.Add(2, "Muhammet");
             Console.WriteLine(ogrenci.Length);
-                        
+                       
         }
     }
 }
